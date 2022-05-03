@@ -4,12 +4,12 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name"><b>Enter Sex</b></label>
+    <label for="Name"><b>Enter your name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter mobile</b></label>
-    <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
+    <label for="mobile"><b>Enter date of birth</b></label>
+    <input type="text" placeholder="Enter date of birth" name="birth" id="birth" required>
     <br>
 
     <label for="email"><b>Enter Email</b></label>
